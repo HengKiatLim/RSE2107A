@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+ 	
+
+	<!-- limo_navigatior_node -->
+    <node name="limo_pov_node" pkg="limo_pov" type="limo_pov_node.py" output="screen">
+    </node>
+
+</launch>
